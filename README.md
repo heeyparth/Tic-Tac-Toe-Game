@@ -34,9 +34,6 @@ Simply open `index.html` in your favorite browser to start playing.
 - The first player to get **three in a row** (horizontally, vertically, or diagonally) wins.
 - If all boxes are filled and no one wins, the game is a **draw**.
 
-## Screenshots
-📸 *Add screenshots here to showcase the game.*
-
 ## Contributing
 Feel free to fork this repository and make improvements! If you'd like to contribute, follow these steps:
 1. **Fork** the repository.
